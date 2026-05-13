@@ -1,5 +1,7 @@
 # agent-Operational-protection-skills
 
+**[简体中文](README.md)** | **[English](README_EN.md)**
+
 Agent 操作规范与安全策略技能库
 
 ## 简介
